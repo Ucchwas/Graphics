@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1563524742 source:f:\graphicsopengl\task4_raytracing\mycode\opengl_codeblocks\main.cpp
+	<iostream>
+	<fstream>
+	<cassert>
+	<algorithm>
+	<iomanip>
+	<cmath>
+	<vector>
+	<windows.h>
+	<glut.h>
+	"bitmap_image.hpp"
+
+1392007564 f:\graphicsopengl\task4_raytracing\mycode\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1526315054 f:\graphicsopengl\task4_raytracing\mycode\opengl_codeblocks\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1563525692 source:e:\4-1\graphics offline\assignment 3\mycode\opengl_codeblocks\main.cpp
+	<iostream>
+	<fstream>
+	<cassert>
+	<algorithm>
+	<iomanip>
+	<cmath>
+	<vector>
+	<windows.h>
+	<glut.h>
+	"bitmap_image.hpp"
+
+1392007564 e:\4-1\graphics offline\assignment 3\mycode\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1526315054 e:\4-1\graphics offline\assignment 3\mycode\opengl_codeblocks\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1564249061 source:e:\4-1\graphics offline\assignment 3\opengl_codeblocks\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+	<vector>
+	<cassert>
+	<algorithm>
+	<windows.h>
+	<glut.h>
+	"bitmap_image.hpp"
+
+1392007564 e:\4-1\graphics offline\assignment 3\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1526315054 e:\4-1\graphics offline\assignment 3\opengl_codeblocks\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
